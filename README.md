@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sudeesh Kumar</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman123k" alt="aman123k" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@sudeesh76639641" target="blank"><img src="https://img.shields.io/twitter/follow/@sudeesh76639641?logo=twitter&style=for-the-badge" alt="@sudeesh76639641" /></a> </p>
 
