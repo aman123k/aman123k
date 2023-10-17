@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sudeesh Kumar</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h1 >Hi 👋, I'm Sudeesh Kumar</h1>
+<h3>A passionate Full Stack developer</h3>
 
 
 
