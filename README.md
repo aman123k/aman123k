@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sudeesh76639641" target="blank"><img src="https://img.shields.io/twitter/follow/@sudeesh76639641?logo=twitter&style=for-the-badge" alt="@sudeesh76639641" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js,TypeScript**
+- 🌱 I’m currently learning **Next.js,TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
