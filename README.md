@@ -1,7 +1,6 @@
 <h2 >Hi 👋, I'm Sudeesh Kumar</h2>
 <p>I'm a passionate Full-stack Developer with hands-on experience building responsive, performant, and user-centric web and mobile applications. I specialise in React, TypeScript, Next.js, Node.js, and Express.js, and have also worked with React Native. I enjoy turning ideas into interactive interfaces.</p>
 
-<p>🔧 I’ve worked on projects ranging from multi-page websites with dynamic course creation to community platforms and pet adoption portals.
 </p>
 <p>🎯 My focus is on clean code, performance optimisation, and crafting intuitive user experiences.<br/>
 🧠 Currently exploring Remix and Directus to deepen my full-stack capabilities.</p>
